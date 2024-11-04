@@ -16,12 +16,12 @@ Besoins du site :
     - Un champs pour inscrire son email et un bouton pour l'envoyer
     - Icône de 3 réseaux sociaux
       
-● Une page d'accueil avec :
-○ Une section présentation (hero section)
-○ Avec une image et une phrase d'accroche par dessus
-○ Une section pour présenter les avantages de cette entreprise (2 à 4 colonnes sur
+- Une page d'accueil avec :
+  - Une section présentation (hero section)
+  - Avec une image et une phrase d'accroche par dessus
+  - Une section pour présenter les avantages de cette entreprise (2 à 4 colonnes sur
 un même ligne)
-○ Une section pour présenter 3 produits ou services de l'entreprise
+  - Une section pour présenter 3 produits ou services de l'entreprise
 
 2. Une page produit avec :
   - Un grand titre
